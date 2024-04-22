@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Eli Howell
 
 #### Your section leader's name
 
-TODO
+Prof Rosen
 
 #### Project title
 
-TODO
+Pokemon Trainer Team Changes
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have learned how to use a rom and get it to run on my computer.
 
 #### What have you not done for your project yet?
 
-TODO
+I have not edited the rom to change things to my liking
 
 #### What problems, if any, have you encountered?
 
-TODO
+I am struggling to figure out how to download a rom and read its code or alter it myself.
