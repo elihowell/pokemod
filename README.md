@@ -10,7 +10,14 @@ Throughout the project, challenges were encountered in modifying the game data d
 
 ## Learning Experience
 
-I learned how to successfully run and emulate console games on my computer as well as how to modify them myself. I have gained a decent understanding of what code and data can look like when used practically and am proud of the work I made. 
+I learned how to successfully run and emulate console games on my computer as well as how to modify them myself. I have gained a decent understanding of what code and data can look like when used practically and am proud of the work I made. I also found I can use HxD to directly compare differences and see what the Universal Randomizer modified in the hex data to change specific items.
 
-####  I thankfully found and used https://www.reddit.com/r/PokemonROMhacks/comments/gynlgp/how_to_change_starter_pokemon_in_emerald_using/ for starter hex data alteration and info
+### Useful Resources:
+
+https://mgba.io/ Pokemon Emulation Software <br>
+https://pokemonroms.org/pokemon-emerald/ download for parent ROM of Emerald <br>
+https://github.com/pret/pokeemerald is a complete decompilation of PKMN Emerald which helped me understand how the game is built and which "parts" work together. <br>
+https://www.reddit.com/r/PokemonROMhacks/comments/gynlgp/how_to_change_starter_pokemon_in_emerald_using/ for starter hex data alteration and info <br>
+https://mh-nexus.de/en/downloads.php?product=HxD20 the HxD hex editor <br>
+https://universalpokemonrandomizer.com/ - The Universal Pokemon Randomizer <br>
 
